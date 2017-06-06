@@ -104,6 +104,19 @@ var UsSateCodes = map[string]string{
 	"AA": "Armed Forces Americas",
 	"AE": "Armed Forces Europe",
 	"AP": "Armed Forces Pacific",
+	"AB":"Alberta",
+"BC":"British Columbia",
+"MB":"Manitoba",
+"NB":"New Brunswick",
+"NL":"Newfoundland and Labrador",
+"NT":"Northwest Territories",
+"NS":"Nova Scotia",
+"NU":"Nunavut",
+"ON":"Ontario",
+"PE":"Prince Edward Island",
+"QC":"Quebec",
+"SK":"Saskatchewan",
+"YT":"Yukon",
 }
 
 // Contains all of the city and country data. Cities are split into buckets by country to increase lookup speed when the country is known.
